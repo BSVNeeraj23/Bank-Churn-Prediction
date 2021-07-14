@@ -1,4 +1,4 @@
-# Deep Learning
+# ML & DL
 ## Customer Churn Prediction
 
 #### How to predict if a Customer will stay or leave the Bank? (Classification)
